@@ -1,1 +1,10 @@
-body{background:blue;}
+body {
+	background: blue;
+}
+
+#contenedor {
+	margin-left: 400px;
+	background-color: lightcoral;
+	width: 400px;
+	height: 500px;
+}

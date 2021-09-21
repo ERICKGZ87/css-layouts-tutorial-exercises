@@ -1,4 +1,23 @@
-/* your code here */
-.h2 {display:none;
+/* your code here
+.h2 {
+	display: none;
+}
+*/
 
+#myFirstH2 {
+	visibility: hidden;
+}
+
+#mySecondH2 {
+	display: none;
+}
+
+#myUL {
+	display: inline-flex;
+	color: blue;
+}
+
+strong {
+
+	display: block;
 }

@@ -2,11 +2,21 @@ body {
 	margin: 0;
 }
 #sectionA {
+	width: 33em;
+	height: 100em;
 	background: blue;
 }
 #sectionB {
+	width: 33em;
+	height: 100em;
 	background: red;
 }
 #sectionC {
+	width: 33em;
+	height: 100em;
 	background: green;
+}
+
+#contenedor {
+	display: flex;
 }

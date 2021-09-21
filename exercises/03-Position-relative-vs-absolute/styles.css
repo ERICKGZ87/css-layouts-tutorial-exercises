@@ -2,12 +2,19 @@ body {
 	background: blue;
 }
 #firstDiv {
-	background: blue;
+	background: rgb(0, 255, 0);
 	width: 100px;
 	height: 100px;
 }
 #secondDiv {
 	background: yellow;
+	width: 100px;
+	height: 100px;
+}
+
+#tercerdiv {
+	position: relative;
+	background: rgb(255, 0, 0);
 	width: 100px;
 	height: 100px;
 }
